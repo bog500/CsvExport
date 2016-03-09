@@ -185,7 +185,7 @@ namespace Jitbit.Utils
         }
 
         /// <summary>
-        /// Exports as raw UTF8 bytes
+        /// Exports in desired encoding
         /// </summary>
         public byte[] ExportToBytes(Encoding encoding)
         {
